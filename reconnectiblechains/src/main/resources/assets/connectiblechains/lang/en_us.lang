@@ -1,0 +1,9 @@
+item.connectiblechains.chain.name=Chain
+message.connectiblechains.start=Chain start selected.
+message.connectiblechains.dimension=Chain start cleared because you changed dimensions.
+message.connectiblechains.cancel=Chain placement cancelled.
+message.connectiblechains.invalid_start=The first anchor is no longer valid.
+message.connectiblechains.too_far=That anchor is farther than the maximum chain range of %s blocks.
+message.connectiblechains.not_enough=You need %s chain items.
+message.connectiblechains.exists=A chain already connects those anchors.
+message.connectiblechains.created=Chain connected.

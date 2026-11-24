@@ -1,0 +1,9 @@
+item.connectiblechains.chain.name=锁链
+message.connectiblechains.start=已选择锁链起点。
+message.connectiblechains.dimension=由于切换了维度，锁链起点已清除。
+message.connectiblechains.cancel=已取消锁链放置。
+message.connectiblechains.invalid_start=原起点已不再是有效锚点。
+message.connectiblechains.too_far=锚点距离超过最大锁链长度 %s 格。
+message.connectiblechains.not_enough=需要 %s 个锁链物品。
+message.connectiblechains.exists=这两个锚点之间已经存在锁链。
+message.connectiblechains.created=锁链连接完成。

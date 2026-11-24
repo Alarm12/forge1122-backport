@@ -1,0 +1,8 @@
+Reconnectible Chains upstream:
+https://github.com/evanbones/Reconnectible-Chains
+
+Upstream license: LGPL-3.0-or-later.
+
+This development workspace is intended to retain the upstream licensing terms.
+Before redistribution, include the complete LGPL-3.0-or-later license text and
+preserve upstream notices required by the license.

@@ -1,0 +1,6 @@
+Ziplines: Rezipped! upstream:
+https://github.com/evanbones/Ziplines-Rezipped
+
+Upstream license: MIT.
+
+Before redistribution, preserve the upstream copyright and MIT license notice.

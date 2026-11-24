@@ -1,0 +1,15 @@
+[
+  {
+    "modid": "connectiblechains",
+    "name": "Reconnectible Chains",
+    "description": "Forge 1.12.2 backport baseline of Reconnectible Chains.",
+    "version": "${version}",
+    "mcversion": "${mcversion}",
+    "url": "https://github.com/evanbones/Reconnectible-Chains",
+    "authorList": ["evanbones", "legoatoom"],
+    "credits": "Backport implementation targeting Forge 1.12.2.",
+    "logoFile": "",
+    "screenshots": [],
+    "dependencies": []
+  }
+]

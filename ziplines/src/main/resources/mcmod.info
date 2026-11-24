@@ -1,0 +1,15 @@
+[
+  {
+    "modid": "zipline",
+    "name": "Ziplines: Rezipped!",
+    "description": "Forge 1.12.2 backport baseline of Ziplines: Rezipped!.",
+    "version": "${version}",
+    "mcversion": "${mcversion}",
+    "url": "https://github.com/evanbones/Ziplines-Rezipped",
+    "authorList": ["evanbones", "Tomate0613"],
+    "credits": "Backport implementation targeting Forge 1.12.2.",
+    "logoFile": "",
+    "screenshots": [],
+    "dependencies": []
+  }
+]
